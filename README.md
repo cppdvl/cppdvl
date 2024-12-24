@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @cppdvl
 - 👀 I really want to make cpp code.
-- 🌱 I’m currently learning Clojure.
-- 💞️ I’m looking to collaborate on art with programming related projects
-
+- 🌱 I’m currently learning more cpp.
+- 💞️ I’m ready to collaborate on any open project.
 
 <!---
 cppdvl/cppdvl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
